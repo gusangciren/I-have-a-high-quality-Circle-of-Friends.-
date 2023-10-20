@@ -16,8 +16,9 @@
 
 
 # 纳瓦尔
+![](images/005_Image_1.jpg)
 ## 01. 纳瓦尔的书籍。
-![](images/004_Image_1.jpg)
+![](images/004_Image_1.png)
 
 建议阅读纸质版后，再来一次电子版的，有更多的超链接可以跳转。有推特和博客推荐的。
 [《纳瓦尔宝典》](https://www.navalmanack.com/) ---- `https://www.navalmanack.com/`。
